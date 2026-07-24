@@ -1,8 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#0f766e"/>
-  <path
-    fill="#ecfeff"
-    d="M32 13c-6.1 0-11 4.9-11 11 0 2.8 1.1 5.4 2.8 7.3-4 1.9-6.8 6-6.8 10.7v3.5c0 1.4 1.1 2.5 2.5 2.5h25c1.4 0 2.5-1.1 2.5-2.5V42c0-4.7-2.8-8.8-6.8-10.7A10.9 10.9 0 0 0 43 24c0-6.1-4.9-11-11-11Zm0 5a6 6 0 1 1 0 12 6 6 0 0 1 0-12Zm0 17c5.5 0 10 3.1 10 7v1H22v-1c0-3.9 4.5-7 10-7Z"
-  />
-  <circle cx="47" cy="17" r="6" fill="#bef264"/>
+  <rect width="64" height="64" rx="14" fill="#ecfeff"/>
+  <text
+    x="50%"
+    y="52%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif"
+    font-size="44"
+  >&#x1F9E0;</text>
 </svg>
